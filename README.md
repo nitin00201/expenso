@@ -38,7 +38,7 @@ The Expense Manager App is a React Native-based mobile application that helps us
 ## Installation & Setup
 1. Clone the repository:
    ```bash
-https://github.com/nitin00201/expenso.git
+   https://github.com/nitin00201/expenso.git
    cd expense-manager
    ```
 2. Install dependencies:
